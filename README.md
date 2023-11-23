@@ -17,7 +17,7 @@
 ## Contatos:
 
 <div>
-<a href="www.linkedin.com/in/andré-leite-ribeiro" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> target="_blank"></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" <a href="www.linkedin.com/in/andré-leite-ribeiro" target="_blank"</a>>
 </div>
 
 
