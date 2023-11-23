@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Olá, me chamo André ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
