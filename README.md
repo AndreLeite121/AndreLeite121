@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👨‍💻 Estudante de Sistemas de informação pela UFVJM 👨‍💻
-- 🔥 Atualmente estou aprendendo Kotlin, React e Java 🔥
-- ⚡ Curiosidade: Comecei a programar para font end, mas me encantei pela área de mobile. 📲
+- 🔥 Atualmente estou aprendendo Java 🔥
+- ⚡ Conhecimentos: Kotlin, JavaScript, CSS, HTML, Java e C++
 
 
 ## Ferramentas e Tecnologias
