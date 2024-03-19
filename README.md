@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👨‍💻 Estudante de Sistemas de informação pela UFVJM 👨‍💻
-- 🔥 Atualmente estou aprendendo Java 🔥
+- 🔥 Atualmente estou aprendendo Java e React🔥
 - ⚡ Conhecimentos: JavaScript, React, CSS, HTML, Java e C++
 
 
