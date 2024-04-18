@@ -3,7 +3,7 @@
 
 - 👨‍💻 Estudante de Sistemas de informação pela UFVJM 👨‍💻
 - 🔥 Atualmente estou aprendendo Java e React🔥
-- ⚡ Conhecimentos: JavaScript, React, CSS, HTML, Java e C++
+- ⚡ Conhecimentos: JavaScript, React, Python, CSS, HTML, Java e C++
 
 
 ## Ferramentas e Tecnologias
